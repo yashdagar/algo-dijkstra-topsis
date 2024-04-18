@@ -12,7 +12,7 @@ This C program implements multi-attribute Dijkstra's algorithm with TOPSIS (Tech
 
 TOPSIS is a multi-criteria decision-making method that determines the best alternative by considering both the similarity to the positive ideal solution and the distance from the negative ideal solution. 
 
-![TOPSIS Example](topsis_example.png)
+![TOPSIS Example](topsis_example.svg)
 
 <!-- Insert image of TOPSIS example here -->
 
