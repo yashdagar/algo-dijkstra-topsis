@@ -8,6 +8,14 @@ This C program implements multi-attribute Dijkstra's algorithm with TOPSIS (Tech
 - **Apply TOPSIS**: Normalizes attribute values using the TOPSIS method to make them comparable.
 - **Find Shortest Paths**: Utilizes Dijkstra's algorithm to find the shortest paths from a given source node, considering multiple attributes.
 
+## TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution)
+
+TOPSIS is a multi-criteria decision-making method that determines the best alternative by considering both the similarity to the positive ideal solution and the distance from the negative ideal solution. 
+
+![TOPSIS Example](topsis_example.png)
+
+<!-- Insert image of TOPSIS example here -->
+
 ## Usage
 
 1. **Compile**: Compile the program using a C compiler (e.g., gcc).
